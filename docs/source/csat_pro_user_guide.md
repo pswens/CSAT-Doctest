@@ -1,6 +1,6 @@
 ![](img/CIS_CSAT_Pro_RGB.png)
 
-CSAT Pro User Guide
+CIS CSAT Pro User Guide
 =====================================
 
 Introduction
