@@ -18,7 +18,7 @@ While there are no strict requirements associated with CIS CSAT Pro, we do have 
 
 Our test environment used an AWS t2.xlarge instance, which has:
 
- - 16GB RAM
+ - 156GB RAM
  - 4 quad core vCPUs
 
 The operating systems CIS used when testing CIS CSAT Pro were Windows Server 2019 and Ubuntu 18.04 (Ubuntu Server and Ubuntu Desktop).  Please note that the installer does not function properly in Windows Server 2019 Core Edition, and that Windows Server 2019 Core Edition is not supported.
